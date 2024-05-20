@@ -31,7 +31,7 @@ Aqui estão algumas imagens das atividades desenvolvidas:
 <img alt="Sistema de geração de Correnteza - Ângulo 1" src="images/obnzip/1-angulo-tanque.png" width=25%/>
 <img alt="Sistema de geração de Correnteza - Ângulo 2" src="images/obnzip/2-angulo-tanque.png" width=25%/>
 <img alt="Sistema de geração de Correnteza - Ângulo 3" src="images/obnzip/3-angulo-tanque.png" width=25%/>
-<img alt="Interface Controle Motor" src="images/obnzip/controle-motor.gif" height=120em/>
+<img alt="Interface Controle Motor" src="images/obnzip/controle-motor.gif" height=180em/>
 </p>
 
 #### 2. IASE2
