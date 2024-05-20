@@ -27,10 +27,12 @@ Este projeto teve como objetivo desenvolver formas de aprimorar os sensores OBN 
 
 Aqui estão algumas imagens das atividades desenvolvidas:
 
+<p align="center">
 <img alt="Sistema de geração de Correnteza - Ângulo 1" src="images/obnzip/1-angulo-tanque.png" width=25%/>
 <img alt="Sistema de geração de Correnteza - Ângulo 2" src="images/obnzip/2-angulo-tanque.png" width=25%/>
 <img alt="Sistema de geração de Correnteza - Ângulo 3" src="images/obnzip/3-angulo-tanque.png" width=25%/>
 <img alt="Interface Controle Motor" src="images/obnzip/controle-motor.gif" width=20%/>
+</p>
 
 #### 2. IASE2
 No período em que entrei para o projeto OBNZIP, o projeto IASE estava encerrando sua primeira fase. Após esse fim, ele foi renovado para uma nova etapa, chamada IASE2. Quando essa fase estava se iniciando, o professor Anderson me proporcionou mais uma nova oportunidade: transferir-me para o este novo projeto, o qual condiz mais com minha área de interesse e especialidade.
