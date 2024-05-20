@@ -28,10 +28,10 @@ Este projeto teve como objetivo desenvolver formas de aprimorar os sensores OBN 
 Aqui estão algumas imagens das atividades desenvolvidas:
 
 <p align="center">
-<img alt="Sistema de geração de Correnteza - Ângulo 1" src="images/obnzip/1-angulo-tanque.png" width=25%/>
-<img alt="Sistema de geração de Correnteza - Ângulo 2" src="images/obnzip/2-angulo-tanque.png" width=25%/>
-<img alt="Sistema de geração de Correnteza - Ângulo 3" src="images/obnzip/3-angulo-tanque.png" width=25%/>
-<img alt="Interface Controle Motor" src="images/obnzip/controle-motor.gif" width=20%/>
+<img alt="Sistema de geração de Correnteza - Ângulo 1" src="images/obnzip/1-angulo-tanque.png" width=90em/>
+<img alt="Sistema de geração de Correnteza - Ângulo 2" src="images/obnzip/2-angulo-tanque.png" width=90em/>
+<img alt="Sistema de geração de Correnteza - Ângulo 3" src="images/obnzip/3-angulo-tanque.png" width=90em/>
+<img alt="Interface Controle Motor" src="images/obnzip/controle-motor.gif" width=90em/>
 </p>
 
 #### 2. IASE2
