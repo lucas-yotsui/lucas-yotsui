@@ -69,6 +69,6 @@ Aqui estão algumas imagens das atividades desenvolvidas:
 
 ### Estatísticas Github
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucas-yotsui&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucas-yotsui&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucas-yotsui&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucas-yotsui&layout=compact&langs_count=8&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
 </p>
