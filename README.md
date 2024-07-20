@@ -16,7 +16,7 @@
 - **2021:** 🎓 Início da graduação em Engenharia Mecatrônica
 - **2022:** 📃 Certificação Toeic _(985/990)_ - Nível C1 no CEFR
 
-### Meus Projetos
+### Minha Experiência
 #### 1. OBNZIP
 Minha primeira grande experiência acadêmica, o projeto OBNZIP foi um projeto de iniciação científica do qual participei a convite do professor [Dr. Anderson Wedderhoff Spengler](https://lisha.ufsc.br/Anderson).
 
