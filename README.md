@@ -3,10 +3,11 @@
 - 🎓 Graduando pela Universidade Federal de Santa Catarina
 - 🔭 Membro do [Laboratório de Integração Software Hardware](https://lisha.ufsc.br/HomePage)
 - 🖥️ Tenho experiência com programação de alto nível em Python e Flutter
-- ⚙️ Tenho experiência também com programação de baixo nível com C e C++ 
+- ⚙️ Tenho experiência também com programação de baixo nível com C, C++ e Zig 
 - ⚡ Minha especialidade são Sistemas Embarcados, desenvolvendo tanto Firmware quanto Hardware
-- 💼 Anteriormente membro do projeto OBNZIP em parceria com a Petrobras
-- 🚗 Atualmente membro do projeto [IASE](https://lisha.ufsc.br/IASE-public) em parceria com a Renault
+- 💼 Anteriormente membro do projeto [OBNZIP](http://lisha.ufsc.br:0/OBNZip+Overview) em parceria com a Petrobras
+- 🚗 Anteriormente membro do projeto [IASE](https://lisha.ufsc.br/IASE-public) em parceria com a Renault
+- 🚜 Atualmente membro do projeto [Auto5G](https://lisha.ufsc.br/Auto5G+Overview) em parceria com as empresas Intelbras e Yak 
 
 ### Minha Formação
 - **2017:** 📃 Certificação Toefl Jr - Nível B2 no CEFR
@@ -35,7 +36,7 @@ Aqui estão algumas imagens das atividades desenvolvidas:
 </p>
 
 #### 2. IASE2
-No período em que entrei para o projeto OBNZIP, o projeto IASE estava encerrando sua primeira fase. Após esse fim, ele foi renovado para uma nova etapa, chamada IASE2. Quando essa fase estava se iniciando, o professor Anderson me proporcionou mais uma nova oportunidade: transferir-me para o este novo projeto, o qual condiz mais com minha área de interesse e especialidade.
+No período em que entrei para o projeto OBNZIP, o projeto IASE estava entrando em seu último ano. Após o fim deste, ele foi renovado para uma nova etapa, chamada IASE2. Quando essa fase estava se iniciando, o professor Anderson me proporcionou mais uma nova oportunidade: transferir-me para o este novo projeto, o qual condiz mais com minha área de interesse e especialidade.
 
 Este novo projeto, tinha como objetivo aprimorar a forma como são coletados dados durante os experimentos conduzidos em carros de teste na Renault. Isso é feito através de comunicação direta com a ECU _(Electronic Control Unit)_ dos veículos via protocolo CAN. 
 
@@ -66,6 +67,19 @@ Aqui estão algumas imagens das atividades desenvolvidas:
 <img alt="Experiment Generator - Tab 2" src="images/iase/iase_generator_select_raster.png" width=40%/>
 <img alt="Experiment Generator - Tab 3" src="images/iase/iase_generator_select_variable_list.png" width=40%/>
 </p>
+
+#### 3. Auto5G
+Após um ano de desenvolvimento do projeto IASE2, o firmware desenvolvido para o projeto alcançou um estágio muito robusto e estável, não tendo muito mais possibilidades de ampliação ou melhoria. Em contrapartida, um outro projeto desenvolvido no laboratório mostrava-se em um estágio muito inicial, com dificuldades de levantar sua parte de firmware do chão: o projeto Auto5G em parceria com a [Intelbras](https://www.intelbras.com/pt-br/) e a [Yak](https://yaktratores.com/).
+Vendo essa situação, eu propus ao professor Anderson que me trocasse mais uma vez, para ajudar nesse desenvolvimento, que é bem em minha área de especialidade.
+
+Com uma proposta extremamente similar à do IASE, este projeto tem como objetivo o desenvolvimento de um sistema de coleta de dados do barramento CAN do veículo e envio destes em tempo real para um servidor através de dados móveis. A diferença principal reside no veículo cujos dados são coletados: ao passo que no IASE é feita coleta em um carro comum de passeio, neste projeto são coletados dados de um trator elétrico desenvolvido pela Yak.
+
+Dentro deste projeto, atuei de forma muito semelhante à como fiz no IASE, realizando atividades como:
+- ⚒️ Modelagem no Solidworks de diversas versões de um case para o hardware do projeto
+- ⚙️ Pesquisa, escolha e orçamento de componentes eletrônicos
+- ⚡ Desenvolvimento do PCB integrando todo o hardware
+- 💻 Desenvolvimento de firmware para comunicação com os tratores elétricos
+- 📱 Desenvolvimento de aplicativo Android para interface e controle do hardware
 
 ### Estatísticas Github
 <p align="center">
