@@ -26,15 +26,6 @@ Este projeto teve como objetivo desenvolver formas de aprimorar os sensores OBN 
 - 💻 Desenvolvimento de um algoritmo computacional em Python para modelagem de um sistema de transmissão sem fio de energia.
 - ⚡ Desenvolvimento de sistema de geração de correnteza, com componentes modelados no Solidworks e produzidos com impressão 3D, desenvolvimento de sistema embarcado em ESP32 para controle de motor brushless e interface web para comunicação com o ESP32 e ajuste de velocidade do motor.
 
-Aqui estão algumas imagens das atividades desenvolvidas:
-
-<p align="center">
-<img alt="Sistema de geração de Correnteza - Ângulo 1" src="images/obnzip/1-angulo-tanque.png" width=25%/>
-<img alt="Sistema de geração de Correnteza - Ângulo 2" src="images/obnzip/2-angulo-tanque.png" width=25%/>
-<img alt="Sistema de geração de Correnteza - Ângulo 3" src="images/obnzip/3-angulo-tanque.png" width=25%/>
-<img alt="Interface Controle Motor" src="images/obnzip/controle-motor.gif" height=180em/>
-</p>
-
 #### 2. IASE2
 No período em que entrei para o projeto OBNZIP, o projeto IASE estava entrando em seu último ano. Após o fim deste, ele foi renovado para uma nova etapa, chamada IASE2. Quando essa fase estava se iniciando, o professor Anderson me proporcionou mais uma nova oportunidade: transferir-me para o este novo projeto, o qual condiz mais com minha área de interesse e especialidade.
 
@@ -46,27 +37,6 @@ Para isso, foi desenvolvido um sistema de ponta a ponta, baseado em um hardware 
 - ⚡ Desenvolvimento do PCB integrando todo o hardware
 - 💻 Desenvolvimento de firmware para comunicação com ECU
 - 📱 Desenvolvimento de aplicativo Android para interface e controle do hardware
-
-Aqui estão algumas imagens das atividades desenvolvidas:
-
-<p align="center">
-<img alt="Case - Ângulo 1" src="images/iase/case-isometrica.png" width=25%/>
-<img alt="Case - Ângulo 2" src="images/iase/case-isometrica-inferior.png" width=25%/>
-<img alt="Case - Ângulo 3" src="images/iase/case-rebaixo-antenas.png" width=25%/>
-</p>
-<p align="center">
-<img alt="Android App - Home Screen" src="images/iase/android_home_page_connected.jpg" width=25%/>
-<img alt="Android App - Connection Screen" src="images/iase/android_connect_screen_not_connected.jpg" width=25%/>
-</p>
-<p align="center">
-<img alt="Android App - Experiment Screen" src="images/iase/android_run_experiment_screen.jpg" width=75%/>
-</p>
-<p align="center">
-<img alt="Experiment Generator - Tab 1" src="images/iase/iase_generator_configurations_tab.png" width=40%/>
-<img alt="Experiment Generator - Tab 4" src="images/iase/iase_generator_experiment_file_saved.png" width=40%/>
-<img alt="Experiment Generator - Tab 2" src="images/iase/iase_generator_select_raster.png" width=40%/>
-<img alt="Experiment Generator - Tab 3" src="images/iase/iase_generator_select_variable_list.png" width=40%/>
-</p>
 
 #### 3. Auto5G
 Após um ano de desenvolvimento do projeto IASE2, o firmware desenvolvido para o projeto alcançou um estágio muito robusto e estável, não tendo muito mais possibilidades de ampliação ou melhoria. Em contrapartida, um outro projeto desenvolvido no laboratório mostrava-se em um estágio muito inicial, com dificuldades de levantar sua parte de firmware do chão: o projeto Auto5G em parceria com a [Intelbras](https://www.intelbras.com/pt-br/) e a [Yak](https://yaktratores.com/).
